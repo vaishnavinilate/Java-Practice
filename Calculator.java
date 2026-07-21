@@ -46,7 +46,7 @@ public class Calculator {
 		break;
 		
 	default:
-		System.out.println("Invalid Operator");
+		System.out.println("Invalid Choice");
 		
 	}		
 		
