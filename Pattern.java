@@ -15,9 +15,8 @@ public class Pattern {
 		 System.out.println();
 		 
 	    }  
-}
- 
-}
+    }
+ }
 
 //que1> Using Scanner 
 
@@ -38,7 +37,7 @@ public static void main (String args[]) {
 		}
 		System.out.println();
 	}
-}
+  }
 }*/
 
 //que2> hollow rectangle
@@ -62,8 +61,6 @@ public static void main (String args[]) {
 			}
 			System.out.println();
 		}
-		
-		
 	}
 }*/
 
@@ -81,7 +78,6 @@ public static void main (String args[]) {
 			System.out.println();
 		}
 	}
-	
 }*/
 
 //que4>
@@ -98,7 +94,6 @@ public static void main (String args[]) {
 			System.out.println();
 		}
 	}
-	
 }*/
 
 //que5>
